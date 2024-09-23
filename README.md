@@ -1,0 +1,4 @@
+Boas vindas, conheça seu professor
+Especialista formado em Gestão da Tecnologia da Informação com forte experiência em Banco de Dados Oracle, PostgreSQL, MS SQL Server além de bancos NoSQL como Hadoop e MongoDB. Conhecimentos de programação Java e Python e possui habilidades analíticas necessárias para encontrar a providencial agulha no palheiro dos dados recolhidos pela empresa. Responsável pelo desenvolvimento de sistemas informativos com a capacidade para analise de dados e detectar tendências, autor de 18 livros e diversos artigos em revistas especializadas, palestrante em diversos seminários sobre tecnologia. 
+Focado em aprender e trazer mudanças para a organização com conhecimento profundo do negócio. 
+Atualmente ocupa o cargo de Analista de Sistemas na CNI e Professor Universitário.
